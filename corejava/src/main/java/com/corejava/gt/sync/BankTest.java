@@ -1,4 +1,4 @@
-package com.chatbook.gt.corejava.sync;
+package com.corejava.gt.sync;
 
 /**
  * 描述：[描述]

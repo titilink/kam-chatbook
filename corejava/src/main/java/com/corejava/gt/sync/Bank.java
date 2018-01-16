@@ -1,4 +1,4 @@
-package com.chatbook.gt.corejava.sync;
+package com.corejava.gt.sync;
 
 import java.util.Arrays;
 import java.util.concurrent.locks.Condition;

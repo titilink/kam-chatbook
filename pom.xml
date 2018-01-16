@@ -12,7 +12,7 @@
     <description>Chat Book And Core Java</description>
 
     <modules>
-        <module>corejava-section1</module>
+        <module>corejava</module>
     </modules>
 
     <properties>

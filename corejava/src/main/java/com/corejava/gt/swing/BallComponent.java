@@ -1,4 +1,4 @@
-package com.chatbook.gt.corejava.swing;
+package com.corejava.gt.swing;
 
 import javax.swing.*;
 import java.awt.*;

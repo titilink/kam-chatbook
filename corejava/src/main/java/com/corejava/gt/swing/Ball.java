@@ -1,4 +1,4 @@
-package com.chatbook.gt.corejava.swing;
+package com.corejava.gt.swing;
 
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Rectangle2D;
