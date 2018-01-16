@@ -1,22 +1,46 @@
-# Compiled class file
-*.class
+# Directories
+/.vagrant
+.idea
+/build
+/*/data
+/*/logs
+/*/_meta/kibana/index-pattern
+/.svn
+logs
 
-# Log file
-*.log
+# Files
+.DS_Store
+/glide.lock
+*.dev.yml
+*.generated.yml
+coverage.out
 
-# BlueJ files
-*.ctxt
+# Editor swap files
+*.swp
+*.swo
+*.swn
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.test
+*.prof
+*.pyc
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Node
+src/main/frontend/node_modules
+bundle.js
+npm-debug.log
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Build Files #
+bin
+target
+build/
+.gradle
+
+# IntelliJ IDEA Files #
+*.iml
+*.ipr
+*.iws
+*.idea
